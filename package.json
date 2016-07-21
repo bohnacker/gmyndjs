@@ -1,0 +1,25 @@
+{
+  "name": "gmyndjs",
+  "version": "1.0.0",
+  "description": "A new version of hfg-gmuend/gmynd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sinuit/gmyndjs.git"
+  },
+  "keywords": [
+    "svg",
+    "create",
+    "manipulate",
+    "animate"
+  ],
+  "author": "Hartmut Bohnacker <mail@hartmut-bohnacker.de> (http://hartmut-bohnacker.de/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sinuit/gmyndjs/issues"
+  },
+  "homepage": "https://github.com/sinuit/gmyndjs"
+}
